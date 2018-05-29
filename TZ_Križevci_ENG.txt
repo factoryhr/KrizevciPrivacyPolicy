@@ -1,0 +1,39 @@
+Križevci Vrata Prigorja mobile application - privacy and data protection policy
+
+
+BY USING THIS APPLICATION, YOU AGREE THAT YOU UNDERSTAND AND AGREE WITH THE APPLICATION OF THE PRIVACY POLICY
+
+
+This Privacy Policy describes your use of the Križevci Vrata Prigorja software application (hereinafter referred to as "the Application") on mobile devices created by Plava tvornica d.o.o. for the Križevci Tourist Board. This Application is a platform for promoting the city of Križevci.
+Our dedication to protecting the data
+Križevci Tourist Board respects the privacy of its users. This Privacy Policy (hereinafter referred to as "Privacy Policy") is intended to provide you with information on how Križevci Tourist Office uses the information we collect from you regarding your use of the Application. This Privacy Policy also explains the conditions under which the Križevci Tourist Board uses and publishes the mentioned information.
+Permissions
+Križevci Vrata Prigorja Application requires the following permissions when installing:
+* Location
+* Photos, media, files camera
+* Microphone
+* Full internet access
+* Flash management
+* Vibration management
+* Display network status
+* Use and share collected data
+We can use, store, store, share, and publish royalty-free data automatically, in accordance with the applicable laws, in particular the Privacy Protection Act, as follows:
+* for acting in accordance with a court appeal or similar court proceedings;
+* with our trusted service providers working on our behalf who are not allowed to use the information we provide to them independently and who have consented to adhere to the rules provided by these Privacy Policy;
+* Advertisers and other advertiser networks as well as data analysis companies as described under "Automated Data & Advertising"; and 
+* In any other way explicitly prescribed by these Privacy Policy or any revised and / or revised version of these Rules that Križevci Tourist Board may decide to publish from time to time.
+* Automatic data collection and advertising
+The app uses tracking codes to track the statistical visits of the Applications for the purpose of obtaining the necessary performance information for the Applications and also uses a third party service called Google Analytics, the Google Play Store, and the Apple App store.
+The app also uses cookies to promote the city of Križevci on the web site itself, on the display networks, and through the use of re-marketing in Google Analytics.
+Application can automatically collect specific information such as the type of mobile device you are using, your unique identification number, your mobile device IP address, your mobile operating system, and how to use the Application.
+Križevci Tourist Board does not have access to individual data and cannot identify individual users individually.
+Withdrawal of consent
+There are a number of ways users of Apps can withdraw their consent to data collection:
+Withdrawing consent to any data collection by uninstalling Applications on your mobile device: You can stop any data collection from the Application by simply uninstalling the Application. You can use standard applications uninstallation processes available on your mobile device or across the mobile application market or on the network.
+Data security
+We strive to preserve the confidentiality of your information. We provide physical, electronic and procedural protection of the data we process and retain. Please note that although we strive to provide a reasonable level of security for the data we process and maintain, no security system can prevent all possible security breaches.
+Changes
+These Privacy Policy may be periodically changed or updated for any reason. We will inform you about any changes to our Privacy Policy by posting new Privacy Policy at www.tz-krizevci.hr. We encourage you to regularly follow our Privacy Policy to be notified of any possible changes. Your continued use of the Applications after the publication of the updated Privacy Policy will be deemed to be your consent to such an up-to-date version.
+Your consent
+By using this Application, you agree to process automatically collected data in accordance with the Privacy Policy and any revised and / or amended version of the Privacy Policy. "Processing" means the use of cookies on a computer or a portable device or use or manipulation of data in any way, including, but not limited to, the collection, storage, deletion, use, combining and publication of data, all of which are in the Republic of Croatia. If you have a place of residence outside the Republic of Croatia, your data will be transferred to the Republic of Croatia and processed and stored there in accordance with the data protection standards in the Republic of Croatia. By using the Applications and providing the data, you agree to such transfer and processing of data in the Republic of Croatia.
+This statement applies from 25 May 2018. until it is revoked by the Križevci Tourist Board.
